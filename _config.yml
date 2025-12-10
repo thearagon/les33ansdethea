@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Théa Ragon
-bio: "CR CNRS - Earthquakes, faults and inverse problems"
-locale: en_US
+title: Les 33 ans de Théa
+bio: ""
+locale: fr-FR
 url:
 image:
   feature: 
-baseurl: /thearagon.github.io
+baseurl: /les33ansdethea.github.io
 
 # Jekyll configuration
 
@@ -100,14 +100,14 @@ analytics:
 # Site owner
 owner:
   name: Théa Ragon
-  avatar: portrait.jpg
-  bio: "CR CNRS - Earthquakes, faults and inverse problems"
-  github: thearagon
+  avatar: 
+  bio: 
+  github: 
   bitbucket: #username
-  orcid: 0000-0002-1276-1910
-  scholar: v_X3_GoAAAAJ
+  orcid: 
+  scholar: 
   mendeley: #username
-  researchgate: Thea_Ragon
+  researchgate: 
   stackoverflow: #http://stackoverflow.com/users/123456/username
   email:
   disqus-shortname: #username
