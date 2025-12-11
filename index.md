@@ -1,5 +1,5 @@
 ---
-layout: /les33ansdethea/_layouts/homepage
+layout: _layouts/homepage
 image:
   feature: /les33ansdethea/images/banner_anniv.png
   credit: ""
