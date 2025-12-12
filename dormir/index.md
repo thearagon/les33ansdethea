@@ -3,9 +3,11 @@ layout: mypage
 title: "Dormir"
 ---
 
-Mode camping activé!
+Mode camping activé! 
 
-Il y aura un spot pour les tentes et un spot séparé, un peu plus loin (5min à pieds), pour les camions. Voir le plan ci dessous. 
+Il y aura un spot pour les tentes et un spot séparé, un peu plus loin (5min à pieds), pour les camions. Voir le plan ci dessous (pas encore fait!)
+
+Pour celleux qui ne souhaitent pas camper: il y aura quelques lits/chambres dispos dans la maison (bruyantes); sinon, prendre un gîte! (voir ci dessous)
 
 ### En tente
 C'est un spot plat, pas loin de la maison, avec plusieurs coins à l'ombre des arbres. Tu peux ramener ton hamac!
@@ -33,12 +35,13 @@ L'accès à l'eau se fait à la bergerie, à côté du parking, où il y a:
 
 ### En chambre
 
-Il y aura quelques places dans la maison, mais qui seront probablement assez bruyantes, vu qu'on fera la fête juste à côté. Si un vrai lit vous fait envie, dites moi vite!
+Il y aura quelques places dans la maison, mais qui seront probablement assez (très?) bruyantes, vu qu'on fera la fête juste à côté. Les chambres seront à dispo des gens avec enfant-es si besoin, dites moi au plus vite. 
 
 
 ### En gîte
 
-Les voisins ont un gîte, accessible à pieds. Il y a aussi plusieurs gîtes sur la commune de Cieurac, accessibles à pieds (45min), vélo (20min) ou voiture (10min). Prévenez moi, en avance, si ca vous intéresse. Il y a aussi moyen de partager un gîte à plusieurs.
+Les voisins ont un gîte, accessible à pieds (4 personnes max). Il y a aussi plusieurs gîtes sur la commune de Cieurac, accessibles à pieds (45min), vélo (20min) ou voiture (10min). Prévenez moi, en avance, si ca vous intéresse. Il y a aussi moyen de partager un gîte à plusieurs.
 
 ### Plan de la maison
 
+à faire...

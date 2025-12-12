@@ -16,7 +16,7 @@ Sur cette page tu trouves des détails sur:
 
 Bienvenue à la maison! Prends ton maillot pour la piscine, ton chapeau car il va faire chaud, ta bonne humeur et ton envie de faire la fête!
 
-Merci de respecter le lieu, en particulier en suivant [ces recommandations](https://les33ansdethea.github.io/orga/#recom) :)
+Merci de respecter le lieu, en particulier en suivant [ces recommandations](#recom) :)
 
 ### 🔥 Manger {#manger}
 
