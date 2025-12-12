@@ -11,6 +11,8 @@ Sur cette page tu trouves des détails sur:
 - [qui tu peux ramener](#qui)
 - [**en résumé: LA liste ultime des choses à amener**](#liste)
 
+\
+\
 
 ### 🔥 Le lieu {#lelieu}    
 
@@ -24,11 +26,12 @@ Il y aura un foodtruck samedi soir.
 
 Je préparerai une grande ratatouille pour dimanche soir.
 
-↓ *Les infos suivantes seront mises à jour au printemps*
+↓ *Les infos suivantes seront mises à jour au printemps*  
 Pour les autres repas, on aura un fonctionnement bimodal:
 - celleux qui peuvent ramènent des plats végétariens préparés en avance qui se mangent froid (salades, cakes, desserts, tartes, ...)
 - on préparera toutes et tous ensemble des salades ou plats en sauce si besoin.
 → *tu peux indiquer ce que tu ramènes sur* [*la feuille de présence*](https://thearagon.github.io/les33ansdethea/quivient/)
+{: .notice}
 
 Pour les petits dej:
 - chacun-e ramène du petit dej à partager
@@ -38,7 +41,7 @@ Pour celleux qui restent après dimanche soir, on décidera ensemble
 
 
 ### 🔥 Boire {#boire}
-Je me charge de fournir:
+Je me charge de fournir:  
 - de la bière pression de la brasserie Bélier (*locale*, de St Antonin, IPA et blonde)
 - de la Diz' (boisson pétillante *très locale* aux plantes sans sucre sans alcool)
 - du vin rouge *très local* - donc du Malbec
@@ -60,7 +63,7 @@ Les chiens bien élevés sont bienvenus! La maison n'est pas clôturée et il y 
 
 ### 🔥 LA liste ultime des choses à amener {#liste}
 
-Indispensables:
+Indispensables:  
 - ta bonne humeur!
 - ton matos pour dormir (camion, tente, ...)
 - ton maillot, serviette, chapeau
@@ -69,7 +72,7 @@ Indispensables:
 - un truc à manger à partager pour les repas hors samedi soir OU des ingrédients manquants (cf [Manger](https://thearagon.github.io/les33ansdethea/orga/#manger))
 - ton ou tes instruments de musique - dis moi si tu es chaud·e pour une scène ouverte!
 
-Dispensables:
+Dispensables:  
 - des trucs à boire si les options ne te conviennent pas
 - ton matos sportif (ou non) [si tu veux profiter du coin](https://thearagon.github.io/les33ansdethea/lequercy/)
 
