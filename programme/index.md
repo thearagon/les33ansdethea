@@ -10,6 +10,8 @@ Le programme n'est pas encore final et va évoluer. Mais en gros le plan c'est:
 - arrivée des premier-ères gens cools
 - soirée chill, apéro, scène ouverte, et danse jusqu'au bout de la night!
 
+
+  
 🔥 **Samedi 4 juillet 2026** 🔥
 - arrivée des dernier-ères gens cools
 - midi : repas cuisiné et partagé toustes ensembles
@@ -20,6 +22,8 @@ Le programme n'est pas encore final et va évoluer. Mais en gros le plan c'est:
 - 22h30  - **concert** - à confirmer
 - 23h - DJ set par qui veut, ou alors ce sera une playlist de 
 
+
+  
 🔥 **Dimanche 5 juillet 2026**🔥 
 - midi: repas toustes ensemble
 - après midi au choix: chill | jeux | balade | piscine | musique | grimpe | vélo | transats | rivière
@@ -28,6 +32,8 @@ Le programme n'est pas encore final et va évoluer. Mais en gros le plan c'est:
 - 20h - repas cuisiné et partagé toustes ensembles
 - 21h - **concert** - à confirmer
 
+
+  
 **Lundi 6 juillet 2026**
 - midi: repas toustes ensemble
 - après midi au choix: chill | jeux | balade | piscine | musique | grimpe | vélo | transats | rivière
