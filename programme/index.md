@@ -10,7 +10,7 @@ Le programme n'est pas encore final et va évoluer. Mais en gros le plan c'est:
 - arrivée des premier-ères gens cools
 - soirée chill, apéro, scène ouverte, et danse jusqu'au bout de la night!
 
-</br>
+<br>
   
 🔥 **Samedi 4 juillet 2026** 🔥
 - arrivée des dernier-ères gens cools
@@ -22,7 +22,7 @@ Le programme n'est pas encore final et va évoluer. Mais en gros le plan c'est:
 - 22h30  - **concert** - à confirmer
 
 
-</br>
+<br>
   
 🔥 **Dimanche 5 juillet 2026**🔥 
 - midi: repas toustes ensemble
@@ -32,7 +32,7 @@ Le programme n'est pas encore final et va évoluer. Mais en gros le plan c'est:
 - 20h - repas cuisiné et partagé toustes ensembles
 - 21h - **concert** - à confirmer
 
-</br>
+<br>
   
 **Lundi 6 juillet 2026**
 - midi: repas toustes ensemble
