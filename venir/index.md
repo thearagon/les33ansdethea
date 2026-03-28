@@ -33,13 +33,20 @@ Les petites routes du Quercy sont bien adaptées au voyage à vélo car généra
 
 ### Venir en train
 
-S'arrêter à la gare de Lalbenque-Fontanes.
+Si possible, **venir directement à la gare de Lalbenque-Fontanes**. Il y a aussi l'option de s'arrêter à la gare de Cahors - je pourrai faire des navettes si plusieurs personnes prennent le même train! 
 
+#### Depuis la gare de Lalbenque
 🥾 La gare est à moins d'1 heure à pieds en passant par les chemins; voir la carte au dessus, trajet ROSE
 
 🚴‍♀️ La gare est à 15 min à vélo de la maison. Suivre le trajet VIOLET sur la carte. Attention, l'option ROSE ne passera qu'avec un VTT ou gravel, ou en marchant!
 
 🚙 Je pourrai organiser quelques navettes en fonction des arrivées, c'est 5 min en voiture. Dis moi si ca t'intéresse!
+
+#### Depuis la gare de Cahors
+🚴‍♀️ La gare de Cahors est à 1h à vélo de la maison.
+
+🚙 Je peux organiser une ou deux navettes en fonction des arrivées. Dis moi en avance si ca t'intéresse, je vais regrouper les voyages.
+
 
 
 ### Venir en voiture ou camion

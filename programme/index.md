@@ -3,7 +3,7 @@ layout: mypage
 title: "Programme"
 ---
 
-Le programme n'est pas encore final et va évoluer. Mais en gros le plan c'est:
+Le programme n'est pas encore final. Mais en gros le plan c'est:
 
 
 **Vendredi 3 juillet 2026**
@@ -21,7 +21,6 @@ Le programme n'est pas encore final et va évoluer. Mais en gros le plan c'est:
 - 21h30 - **pop pour danser sola** - Laura Bolt 
 - 22h30  - **concert** - à confirmer
 
-
 <br>
   
 🔥 **Dimanche 5 juillet 2026**🔥 
@@ -30,7 +29,7 @@ Le programme n'est pas encore final et va évoluer. Mais en gros le plan c'est:
 - ateliers si motivé-es: yoga, ...? - proposez quelque chose!
 - 17h - **théâtre** avec la Cie Ciment d'or
 - 20h - repas cuisiné et partagé toustes ensembles
-- 21h - **concert** - à confirmer
+- 21h - **pop intimiste** - Jokari en solo
 
 <br>
   
