@@ -5,7 +5,7 @@ title: "Participation Aux Frais"
 
 <br>
 
-**Le coût total par personne du festival sera de 70-80 euros/personne environ.** *Sera mis à jour fin juin!*
+**Le coût total par personne du festival sera de 70-80 euros/personne + le foodtruck à 13e.** *Sera mis à jour fin juin!*
 \
 Merci <3
 
