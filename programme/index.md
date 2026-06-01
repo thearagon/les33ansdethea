@@ -3,7 +3,7 @@ layout: mypage
 title: "Programme"
 ---
 
-![prog](./prog.png){: .align-left}
+![prog](/programme/prog.png){: .align-left}
 
 **Vendredi 3 juillet 2026**
 - arrivée des premier-ères gens cools
