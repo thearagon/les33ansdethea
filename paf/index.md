@@ -3,22 +3,25 @@ layout: mypage
 title: "Participation Aux Frais"
 ---
 
-**Le coût total par personne du festival sera de 80 euros/personne environ.** *À mettre à jour fin juin!*  
+<br>
+
+**Le coût total par personne du festival sera de 70-80 euros/personne environ.** *Sera mis à jour fin juin!*
+\
 Merci <3
 
-Participer via la cagnotte  
+Participer via la cagnotte en ligne, ou sur place en cash
 [lien]
 {: .notice}
 
 Si tu peux, **prends du cash** pour:    
-→ le foodtruck (13 euros / personne)   
+→ le foodtruck (13 euros / personne), *pas compris dans les 80 euros!*   
 → ajouter un petit plus pour les artistes si tu kiffes! (je les paye directement)  
 {: .notice}
 
 
 ### 🔥 PAF
 \
-Le coût total par personne du festiv'anniv est de **80 euros/personne** environ.  
+Le coût total par personne du festiv'anniv est de **80 euros/personne** environ, sans le foodtruck.  
 *Ajoute le prix du foodtruck (13 euros) si tu ne payes pas par cash sur place!*
 
 → Si tu repars dimanche aprem avant le théâtre, tu peux déduire 25 euros.  
