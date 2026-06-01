@@ -23,6 +23,18 @@ Coordonnées:
 J'enverrai l'adresse précise + tard, mais si besoin demande la moi!
 {: .notice} 
 
+### Orga covoit et navettes {#covoit}
+
+Pour organiser des covoiturages potentiels et les navettes depuis les gares de Lalbenque, et peut être Cahors, remplis cette feuille!
+
+Pour remplir la feuille sur mobile si ca ne fonctionne pas: clique sur la cellule puis sur la barre/le champ vide sous les flèches "défaire/refaire"
+{: .notice} 
+
+<iframe src="https://lite.framacalc.org/jpvbaj3z49-all0" width="1100" height="900" frameborder=0 ></iframe>
+
+[Pour ouvrir la feuille sur ton navigateur](https://lite.framacalc.org/jpvbaj3z49-all0)
+{: .notice} 
+
 ### Venir en vélo
 
 Il y a plusieurs itinéraires vélo qui passent à moins d'1h de la maison, par Arcambal. On peut citer l'itinéraire de la vallée du Lot ou l'itinéraire de la Vagabonde, à retrouver [ici](https://www.francevelotourisme.com/itineraire).
