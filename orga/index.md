@@ -13,14 +13,13 @@ Sur cette page tu trouves des détails sur:
 
   
 ### 🔥 Le lieu {#lelieu}    
-
+\
 Bienvenue à la maison! Prends ton maillot pour la piscine, ton chapeau car il va faire chaud, ta bonne humeur et ton envie de faire la fête!
 
 Merci de respecter le lieu, en particulier en suivant [ces recommandations](#recom) :)
 
 ### 🔥 Manger {#manger}
-
-
+\
 **vendredi soir:** potluck / auberge espagnole, **amène un truc à partager!**
 Je ne ferai que quelques tartinades et une salade de tomates. Pas besoin de prendre du pain!
 
@@ -29,10 +28,10 @@ Je ne ferai que quelques tartinades et une salade de tomates. Pas besoin de pren
 **dimanche:** petit dej, repas du midi et mega chili sin carne le soir, tout pris en charge
 
  
-**Il n'y aura pas de frigo dispo.**
-→ tu peux ramener des plats végétariens pour vendredi soir
-→ tu peux ramener autre chose si ca se conserve bien
-→ on préparera toutes et tous ensemble des salades et buffet froid pour le midi  
+**Il n'y aura pas de frigo dispo.**  
+→ tu peux ramener des plats végétariens pour vendredi soir  
+→ tu peux ramener autre chose si ca se conserve bien  
+→ on préparera toutes et tous ensemble des salades et buffet froid pour le midi   
 {: .notice}
 
 SI TU AS UNE ALLERGIE, ME PRÉVENIR STP!
@@ -42,6 +41,7 @@ SI TU AS UNE ALLERGIE, ME PRÉVENIR STP!
 
 
 ### 🔥 Boire {#boire}
+\
 Je me charge de fournir:  
 - de la bière pression de la brasserie Bélier (*locale*, de St Antonin, IPA et blonde)
 - de la Diz' (boisson pétillante *très locale* aux plantes sans sucre sans alcool)
@@ -52,9 +52,11 @@ Je me charge de fournir:
 **Si tu veux boire autre chose (alcool fort, autre soft, ...), amène le, et remporte le avec toi!** Non je ne veux pas me retrouver avec 40.000 bouteilles à moitié pleines ;)
 
 ### 🔥 Money money money {#money}
+\
  [+ d'infos](https://thearagon.github.io/les33ansdethea/paf)
 
 ### 🔥 Qui {#qui}
+\
 Tu peux amener qui tu veux avec toi, si c'est des gens cools. Me prévenir via la feuille ou par sms.
 
 Les enfant-es sont les bienvenu-es!

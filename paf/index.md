@@ -10,14 +10,14 @@ Participer via la cagnotte
 [lien]
 {: .notice}
 
-Si tu peux, **prends du cash** pour:  
+Si tu peux, **prends du cash** pour:    
 → le foodtruck (13 euros / personne)   
 → ajouter un petit plus pour les artistes si tu kiffes! (je les paye directement)  
 {: .notice}
 
 
 ### 🔥 PAF
-
+\
 Le coût total par personne du festiv'anniv est de **80 euros/personne** environ.  
 *Ajoute le prix du foodtruck (13 euros) si tu ne payes pas par cash sur place!*
 
