@@ -20,22 +20,25 @@ Merci de respecter le lieu, en particulier en suivant [ces recommandations](#rec
 
 ### 🔥 Manger {#manger}
 
-Il y aura un foodtruck samedi soir.
 
-Je préparerai une grande ratatouille pour dimanche soir.
+**vendredi soir:** potluck / auberge espagnole, **amène un truc à partager!**
+Je ne ferai que quelques tartinades et une salade de tomates. Pas besoin de prendre du pain!
 
-↓ *Les infos suivantes seront mises à jour au printemps*  
-Pour les autres repas, on aura un fonctionnement bimodal  
-→ celleux qui peuvent ramènent des plats végétariens préparés en avance qui se mangent froid (salades, cakes, desserts, tartes, ...)  
-→ on préparera toutes et tous ensemble des salades ou plats en sauce si besoin.  
-→ *tu peux indiquer ce que tu ramènes sur* [*la feuille de présence*](https://thearagon.github.io/les33ansdethea/quivient/)
+**samedi:** petit dej, repas du midi et foodtruck du soir, tout pris en charge
+
+**dimanche:** petit dej, repas du midi et mega chili sin carne le soir, tout pris en charge
+
+ 
+**Il n'y aura pas de frigo dispo.**
+→ tu peux ramener des plats végétariens pour vendredi soir
+→ tu peux ramener autre chose si ca se conserve bien
+→ on préparera toutes et tous ensemble des salades et buffet froid pour le midi  
 {: .notice}
 
-Pour les petits dej:
-- chacun-e ramène du petit dej à partager
-- celleux qui ont des grandes cafetières type à piston peuvent en ramener aussi :)
+SI TU AS UNE ALLERGIE, ME PRÉVENIR STP!
+{: .notice}
 
-Pour celleux qui restent après dimanche soir, on décidera ensemble
+
 
 
 ### 🔥 Boire {#boire}
@@ -43,21 +46,20 @@ Je me charge de fournir:
 - de la bière pression de la brasserie Bélier (*locale*, de St Antonin, IPA et blonde)
 - de la Diz' (boisson pétillante *très locale* aux plantes sans sucre sans alcool)
 - du vin rouge *très local* - donc du Malbec
+- du vin blanc *très local*
 - quelques litres de jus de pomme ou raisin
 
-Si tu veux boire autre chose (alcool fort, autre soft, ...), amène le, et remporte le avec toi! Non je ne veux pas me retrouver avec 40.000 bouteilles à moitié pleines ;)
+**Si tu veux boire autre chose (alcool fort, autre soft, ...), amène le, et remporte le avec toi!** Non je ne veux pas me retrouver avec 40.000 bouteilles à moitié pleines ;)
 
 ### 🔥 Money money money {#money}
-Il te faudra du cash pour remercier les artistes (qui seront au chapeau) et pour prendre à manger au foodtruck. 
-
-PAF: Je mettrai aussi à disposition une petite tirelire pour celleux qui veulent aider un peu plus, mais rien d'obligatoire, si déjà tu es là c'est le principal!
+ [+ d'infos](https://thearagon.github.io/les33ansdethea/paf)
 
 ### 🔥 Qui {#qui}
 Tu peux amener qui tu veux avec toi, si c'est des gens cools. Me prévenir via la feuille ou par sms.
 
 Les enfant-es sont les bienvenu-es!
 
-Les chiens bien élevés sont bienvenus! La maison n'est pas clôturée et il y a d'autres chiens, des chats, des chevaux, des vaches, des poules, des enfants… → si ca risque de poser problème, alors ne ramène pas ton chien.
+Les chiens bien élevés sont bienvenus! La maison **n'est pas clôturée et il y a d'autres chiens**, des chats, des chevaux, des vaches, des poules, des enfants… → si ca risque de poser problème, alors ne ramène pas ton chien.
 
 ### 🔥 LA liste ultime des choses à amener {#liste}
 \
@@ -65,9 +67,8 @@ Indispensables:
 - ta bonne humeur!
 - ton matos pour dormir (camion, tente, ...)
 - ton maillot, serviette, chapeau
-- du cash pour les artistes au chapeau et le foodtruck
-- du petit dej à partager
-- un truc à manger à partager pour les repas hors samedi soir OU des ingrédients manquants (cf [Manger](https://thearagon.github.io/les33ansdethea/orga/#manger))
+- du cash pour les artistes au chapeau, et pour la caisse de PAF (Participation Aux Frais) - je ferai aussi une cagnotte :)
+- un truc à manger à partager pour le vendredi soir (cf [Manger](https://thearagon.github.io/les33ansdethea/orga/#manger))
 - ton ou tes instruments de musique - dis moi si tu es chaud·e pour une scène ouverte!
 
 Dispensables:  

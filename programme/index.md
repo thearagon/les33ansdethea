@@ -3,8 +3,7 @@ layout: mypage
 title: "Programme"
 ---
 
-Le programme n'est pas encore final. Mais en gros le plan c'est:
-
+<!--![prog](/programme/prog.png){: .align-left}-->
 
 **Vendredi 3 juillet 2026**
 - arrivée des premier-ères gens cools
@@ -18,8 +17,8 @@ Le programme n'est pas encore final. Mais en gros le plan c'est:
 - après midi au choix: chill, jeux, balade, piscine, musique, grimpe, vélo, transats, rivière
 - 19h - **chorale féministe** (à confirmer)
 - 20h - **foodtruck** avec **Les papilles ambulantes**
-- 21h30 - **pop pour danser sola** - Laura Bolt 
-- 22h30  - **concert** - à confirmer
+- 22h00 - **pop pour danser sola** - **Laura Bolt**
+- jusqu'au bout de la night  - **DJ set ouvert** - à vos tables de mixage je compte sur vous ;)
 
 <br>
   
