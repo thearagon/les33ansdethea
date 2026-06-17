@@ -3,7 +3,7 @@ layout: mypage
 title: "Plan de la maison"
 ---
 
-🔥 !!! **PAS DE FEU** !!! **pas de feu, faire très attention à tes mégots
+🔥 !!! **PAS DE FEU** !!! & faire très attention à tes mégots  
 🔥 C'est très sec et tout peut brûler très vite. 
 
 
@@ -17,5 +17,5 @@ title: "Plan de la maison"
 - Économiser l'eau: pas de bataille d'eau, pas de robinet non fermé
 - Ne pas laisser de déchets trainer, y compris du papier toilette
 - Ne pas faire pipi/caca partout
-- - !!! **PAS DE FEU** !!! **pas de feu de camp, pas de barbecue, faire très attention à tes mégots, etc. C'est très sec et tout peut brûler très vite. Merci d'être responsable :)**
+- - !!! **PAS DE FEU** !!! 
 {: .notice} 
