@@ -6,9 +6,11 @@
     url: /paf/
   - title: "Venir"
     url: /venir/
-  - title: "Dormir"
-    url: /dormir/
-  - title: "Qui vient"
-    url: /quivient/
+ # - title: "Dormir"
+ #   url: /dormir/
+   - title: "Plan de la maison"
+    url: /plan/   
+ # - title: "Qui vient"
+ #   url: /quivient/
   - title: "Le Quercy"
     url: /lequercy/
