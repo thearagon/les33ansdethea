@@ -8,8 +8,11 @@ Je fête mes 33 ans!
 
 <br> Les infos du moment:
 - [Remplis la feuille si besoin/offre de **covoiturage** ou de **navette** depuis les gares!](https://lite.framacalc.org/jpvbaj3z49-all0)
-- **PAF** (Participation Aux Frais): j'estime le coût à ~70-80 euros / personne pour le we. Tu pourras participer en direct en cash, ou sur une cagnotte en ligne!  [+ d'infos](https://thearagon.github.io/les33ansdethea/paf)
 
+- **PAF** (Participation Aux Frais): j'estime le coût à ~80 euros / personne pour le we + 15 en cash. 
+Tu pourras participer en direct en cash, ou sur une cagnotte en ligne!  [+ d'infos](https://thearagon.github.io/les33ansdethea/paf)
+
+ <br>
  <br>
 En résumé:
 - **Quand**: du 3 au 5 juillet 2026, arrivée anticipée ou départ retardé encouragés ;)
