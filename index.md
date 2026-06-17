@@ -14,7 +14,6 @@ Tu pourras participer en direct en cash, ou sur une cagnotte en ligne!  [+ d'inf
 
  <br>
  
- <br>
 En résumé:
 - **Quand**: du 3 au 5 juillet 2026, arrivée anticipée ou départ retardé encouragés ;)
 - **Venir**: en train, vélo ou voiture - tout est possible! [+ d'infos](https://thearagon.github.io/les33ansdethea/venir/)

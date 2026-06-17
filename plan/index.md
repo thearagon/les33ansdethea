@@ -1,6 +1,5 @@
 ---
 layout: mypage
-image:
 title: "Plan de la maison"
 ---
 
