@@ -13,6 +13,7 @@ Je fête mes 33 ans!
 Tu pourras participer en direct en cash, ou sur une cagnotte en ligne!  [+ d'infos](https://thearagon.github.io/les33ansdethea/paf)
 
  <br>
+ 
  <br>
 En résumé:
 - **Quand**: du 3 au 5 juillet 2026, arrivée anticipée ou départ retardé encouragés ;)
